@@ -1,0 +1,92 @@
+{
+    "quadrilhas": [
+        {
+            "id": 1,
+            "quadrilha": "Todos em Asa Branca",
+            "jurados": [
+                {
+                    "id": 1,
+                    "jurado": "Jurado 01",
+                    "pontuacao": {
+                        "originalidade": 0,
+                        "coreografia": 0,
+                        "animacaoHarmonia": 0,
+                        "trage": 0,
+                        "entradaESaidaArraial": 0,
+                        "xaxadoBaiaoXote": 0,
+                        "repertorioMusical": 6,
+                        "marcador": 0,
+                        "cantor": 0,
+                        "grupoMusical": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "quadrilha": "Quadrilha Junina Asa Branca",
+            "jurados": [
+                {
+                    "id": 1,
+                    "jurado": "Jurado 01",
+                    "pontuacao": {
+                        "originalidade": 0,
+                        "coreografia": 0,
+                        "animacaoHarmonia": 0,
+                        "trage": 0,
+                        "entradaESaidaArraial": 1,
+                        "xaxadoBaiaoXote": 0,
+                        "repertorioMusical": 5,
+                        "marcador": 0,
+                        "cantor": 0,
+                        "grupoMusical": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "quadrilha": "Buscapé",
+            "jurados": [
+                {
+                    "id": 1,
+                    "jurado": "Jurado 01",
+                    "pontuacao": {
+                        "originalidade": 0,
+                        "coreografia": 0,
+                        "animacaoHarmonia": 1,
+                        "trage": 0,
+                        "entradaESaidaArraial": 0,
+                        "xaxadoBaiaoXote": 0,
+                        "repertorioMusical": 5,
+                        "marcador": 0,
+                        "cantor": 0,
+                        "grupoMusical": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "quadrilha": "Raio da Silibrina",
+            "jurados": [
+                {
+                    "id": 1,
+                    "jurado": "Jurado 01",
+                    "pontuacao": {
+                        "originalidade": 1,
+                        "coreografia": 0,
+                        "animacaoHarmonia": 0,
+                        "trage": 0,
+                        "entradaESaidaArraial": 0,
+                        "xaxadoBaiaoXote": 0,
+                        "repertorioMusical": 5,
+                        "marcador": 0,
+                        "cantor": 0,
+                        "grupoMusical": 0
+                    }
+                }
+            ]
+        }
+    ]
+}
